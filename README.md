@@ -38,6 +38,8 @@ Base:
 
 
 Items:
+- done:                       Go back to Base Commands
+
 - item:                       View item data
 - enchants:                   View enchants data
 - enchant [integer]:          View detailed information on specific enchantment
@@ -58,6 +60,7 @@ Items:
 
 - enchant [integer] [key] [integer]
 - socket [integer] [key] [integer]
+
 
 
 Enchants:
