@@ -2,7 +2,8 @@
 
 Simple stash editor for Chronicon 
 
-- All the other stash editors have been outdated for years, and the stash is encoded completely differently now.
+Why am I making this? All the other stash editors have been outdated for years, and the stash is encoded completely differently now.
+I wanted to re-create these old projects to the best of my ability and give the community a new tool to play around with. 
 
 Features:
 - Change health / damage / mana and other values of items
